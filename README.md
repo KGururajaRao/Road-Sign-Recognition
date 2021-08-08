@@ -23,3 +23,9 @@ Few of the Test cases:
 
 **Road Work**
 ![Road Work](https://user-images.githubusercontent.com/34395248/128640530-d9b0809f-510e-4388-9151-52671583b251.jpg)
+
+**Accuracy**
+![Accuracy](https://user-images.githubusercontent.com/34395248/128640589-9648b884-9673-4197-86b4-0d10615b38e6.png)
+
+**Loss**
+![Loss](https://user-images.githubusercontent.com/34395248/128640606-37cb2d3d-5e4d-47b2-a81e-5338bc0d5703.png)
