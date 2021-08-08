@@ -1,2 +1,7 @@
-# Road-Sign-Recognition
-Deep Learning, Keras, PyQt5
+# ROAD SIGN RECOGNITION
+
+## Traffic - Sign Recognition (TSR) from Advanced Driver Assistance Systems (ADAS)
+
+### Keras - Library
+
+### PyQt5 - cross-platform GUI toolkit
